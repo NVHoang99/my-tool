@@ -1,1 +1,1 @@
-# thực hành sử dụng JavaScript
+# thực hành sử dụng JavaScript.
