@@ -19,11 +19,12 @@ html {
     overflow-x: hidden;
 }
 
-.btn {
+.btn, .btn:link, .btn:hover, .btn:visited {
     display: block;
     padding: 1rem 5rem;
     border: 1px solid white;
     text-decoration: none;
     font-size: 2rem;
     margin-bottom: 3rem;
+    color: #661A8B;
 }
